@@ -8,4 +8,4 @@ image: "edward-james-olmos-stand-deliver.jpg"
 
 #### Proposed Classes
 
-- [Quantitative Public Policy Analysis](/teaching/quantitative-public-policy-analysis/)
+- [Quantitative Public Policy Analysis](/portfolio/quantitative-public-policy-analysis/)
