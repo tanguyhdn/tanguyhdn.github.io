@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/Photo.jpg" caption="Photo." width=150 align="right" %}
+{% include image.html url="/images/Photo.jpg" caption="Photo." width=200 align="right" %}
 
 Hi, my name is Tanguy and I'm a data scientist. I hold a Master's degree in science with major in economics and statistics (Economics Engineering and Data Analysis, CY Cergy Paris University).
 
