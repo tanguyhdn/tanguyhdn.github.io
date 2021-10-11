@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Blog
+permalink: /blog/
 ---
 
 Here is a non-exhaustive list of some of my projects.
