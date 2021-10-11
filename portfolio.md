@@ -12,4 +12,4 @@ image: "edward-james-olmos-stand-deliver.jpg"
 
 - [Data Analysis](/portfolio/notebook2/)
 
-- [Data Science](/portfolio/The Android App Market on Google Play/)
+- [Data Science](/portfolio/The-Android-App-Market-on-Google-Play/)
