@@ -24,13 +24,6 @@ import time
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# from selenium.webdriver.support.ui import Select
-# from bs4 import BeautifulSoup
-# from requests import get
-# from time import sleep
-# from random import randint
-# from IPython.core.display import clear_output
-# from bs4 import BeautifulSoup
 
 ```
 
