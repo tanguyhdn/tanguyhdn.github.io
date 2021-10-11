@@ -12,19 +12,6 @@ categories : python, web scraping
 
 #### Objective: Scraping the data available [here](https://www.senscritique.com/liste/Bon_Films/66436) on senscritique website for movies between Page 1 and Page10 and perform the EDA.
 
-## Table of contents
-
-1. [Required libraries](#Required-libraries)
-
-2. [Preparing the dataset](#Preparing-the-dataset)
-
-3. [Piecing everything together](#Piecing-everything-together)
-
-4. [Cleaning the scraped data](#Cleaning-the-scraped-data)
-
-5. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-
-
 ### Required libraries
 
 
