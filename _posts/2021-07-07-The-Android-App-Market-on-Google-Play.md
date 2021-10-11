@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Android App Market on Google Play"
-date:   2021-09-09
+date:   2021-07-07
 categories: Python
 ---
 
