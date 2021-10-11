@@ -133,11 +133,14 @@ code {
     font-size: 14px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #272729;
+    background-color: #eef;
 }
 
 code {
-    padding: 1px 5px;
+    padding: 1px 1px;
+    background: #fdfdfd;
+    border: 0px;
+    font-family: 'Fira Code', monospace;
 }
 
 pre {
