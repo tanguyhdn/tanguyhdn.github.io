@@ -1,3 +1,9 @@
+---
+layout: page
+title: The-Android-App-Market-on-Google-Play
+permalink: /portfolio/The-Android-App-Market-on-Google-Play/
+---
+
 ## 1. Google Play Store apps and reviews
 <p>Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.</p>
 <p><img src="https://assets.datacamp.com/production/project_619/img/google_play_store.png" alt="Google Play logo"></p>
@@ -360,13 +366,13 @@ plt2 = sns.jointplot(x = paid_apps['Price'], y = paid_apps['Rating'])
 
 
     
-![png](output_11_0.png)
+![png](/images/TheAndroidApp/output_11_0.png)
     
 
 
 
     
-![png](output_11_1.png)
+![png](/images/TheAndroidApp/output_11_1.png)
     
 
 
@@ -532,7 +538,7 @@ apps_above_200[['Category', 'App', 'Price']]
 
 
     
-![png](output_13_1.png)
+![png](/images/TheAndroidApp/output_13_1.png)
     
 
 
@@ -562,7 +568,7 @@ ax.set_title('App pricing trend across categories after filtering for junk apps'
 
 
     
-![png](output_15_1.png)
+![png](/images/TheAndroidApp/output_15_1.png)
     
 
 
@@ -645,6 +651,6 @@ ax.set_title('Sentiment Polarity Distribution')
 
 
     
-![png](output_19_1.png)
+![png](/images/TheAndroidApp/output_19_1.png)
     
 
