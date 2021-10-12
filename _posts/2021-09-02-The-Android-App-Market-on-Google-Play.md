@@ -1,7 +1,7 @@
 ---
+layout: page
 title: 'The Android App Market on Google Play'
 date: 2021-09-02
-permalink: /posts/2021-09-02-The-Android-App-Market-on-Google-Play/
 tags:
   - Data Science
   - Python
