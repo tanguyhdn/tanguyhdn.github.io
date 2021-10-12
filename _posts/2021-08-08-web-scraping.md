@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Web Scraping"
 date:   2021-08-08
 categories : python, web scraping
