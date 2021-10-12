@@ -5,7 +5,6 @@ permalink: /portfolio/
 
 ---
 
+My works in software & data engineering, data science and researches.
 
-#### Proposed Classes
-
-- [Quantitative Public Policy](/portfolio/quantitative-public-policy-analysis/)
+# under construction

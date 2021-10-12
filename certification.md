@@ -1,18 +1,18 @@
 ---
 layout: page
-#title: Certification
+title: Certification
 permalink: /certification/
 ---
 
 Some certifications here
 
-## Coursea Certification
+# Tensorflow Developer Certificate
 
 - [Introduction to TensorFlow for Artificial Intelligence](/CourseraQDXRX44X5NZZ.pdf)
 
-## DataCamp Certification
+# Data Scientist Professional Certificate
 
-### Python
+## Python
 
 - [Data Manipulation with Python](/DataManipulationPythonTrack.pdf)
 
