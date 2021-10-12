@@ -37,8 +37,7 @@ print('Total number of apps in the dataset = ', len(apps))
 n = 5
 apps.sample(n)
 ```
-
-<img src="/images/TheAndroidApp/Capture1.png" alt="Capture1" style="zoom:50%;" />
+![png](/images/TheAndroidApp/Capture1.PNG)
 
 ## **2. Data cleaning**
 
@@ -92,7 +91,7 @@ data = [go.Bar(
 plotly.offline.iplot(data)
 ```
 
-<img src="/images/TheAndroidApp/newplot1.png" alt="newplot1" style="zoom:50%;" />
+![png](/images/TheAndroidApp/newplot1.png)
 
 ## 4. Distribution of app ratings**
 
@@ -124,7 +123,7 @@ layout = {'shapes': [{
 plotly.offline.iplot({'data': data, 'layout': layout})
 ```
 
-<img src="/images/TheAndroidApp/newplot.png" alt="newplot" style="zoom:50%;" />
+![png](/images/TheAndroidApp/newplot.png)
 
 ## **5. Size and price of an app**
 
@@ -153,7 +152,9 @@ large_categories = apps.groupby('Category').filter(lambda x: len(x) >= 250).rese
 plt1 = sns.jointplot(x = large_categories['Size'], y = large_categories['Rating'], kind = 'hex')
 ```
 
-<img src="/images/TheAndroidApp/output_11_0.png" alt="output_11_0" style="zoom: 50%;" />
+
+![png](/images/TheAndroidApp/output_11_0.png)
+
 
 ```python
 # Subset out apps whose type is 'Paid'
@@ -163,7 +164,7 @@ paid_apps = apps[apps['Type'] == 'Paid']
 plt2 = sns.jointplot(x = paid_apps['Price'], y = paid_apps["Rating"])
 ```
 
-<img src="/images/TheAndroidApp/output_11_1.png" alt="output_11_0" style="zoom: 50%;" />
+![png](/images/TheAndroidApp/output_11_1.png)
 
 ## **6. Relation between app category and app price**
 
@@ -192,9 +193,12 @@ apps_above_200 = popular_app_cats[['Category', 'App', 'Price']][popular_app_cats
 apps_above_200
 ```
 
-<img src="/images/TheAndroidApp/Capture3.png" alt="Capture3" style="zoom:67%;" />
+![png](/images/TheAndroidApp/Capture3.PNG)
 
-<img src="/images/TheAndroidApp/output_13_1.png" alt="output_13_1" style="zoom:50%;" />
+
+
+![png](/images/TheAndroidApp/output_13_1.png)
+
 
 ## **7. Filter out "junk" apps**
 
@@ -215,7 +219,8 @@ ax = sns.stripplot(x='Price', y='Category', data=apps_under_100,
 ax.set_title('App pricing trend across categories after filtering for junk apps')
 ```
 
-<img src="/images/TheAndroidApp/output_15_1.png" alt="output_15_1" style="zoom:50%;" />
+![png](/images/TheAndroidApp/output_15_1.png)
+
 
 ## **8. Popularity of paid apps vs free apps**
 
@@ -259,7 +264,8 @@ data = [trace0,trace1]
 plotly.offline.iplot({'data': data, 'layout': layout})
 ```
 
-<img src="/images/TheAndroidApp/newplot3.png" alt="newplot3" style="zoom:50%;" />
+![png](/images/TheAndroidApp/newplot3.png)
+
 
 ## **9. Sentiment analysis of user reviews**
 
@@ -288,4 +294,4 @@ ax = sns.boxplot(x = 'Type', y = 'Sentiment_Polarity', data = merged_df)
 ax.set_title('Sentiment Polarity Distribution')
 ```
 
-<img src="/images/TheAndroidApp/output_19_1.png" alt="output_19_1" style="zoom:50%;" />
+![png](/images/TheAndroidApp/output_19_1.png)
