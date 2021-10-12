@@ -7,15 +7,15 @@ permalink: /certification/
 
 ## Coursea Certification
 
-- [Introduction to TensorFlow for Artificial Intelligence](/certification/CourseraQDXRX44X5NZZ.pdf)
+- [Introduction to TensorFlow for Artificial Intelligence](/CourseraQDXRX44X5NZZ.pdf)
 
 ## DataCamp Certification
 
 ### Python
 
-- [Data Manipulation with Python](/certification/DataManipulationPythonTrack.pdf)
+- [Data Manipulation with Python](/DataManipulationPythonTrack.pdf)
 
-- [Python Fundamentals](/certification/PythonFundamentalsTrack.pdf)
+- [Python Fundamentals](/PythonFundamentalsTrack.pdf)
 
 
 
