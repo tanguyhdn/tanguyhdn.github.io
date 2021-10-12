@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Certification
+#title: Certification
 permalink: /certification/
 ---
 
+Some certifications here
 
 ## Coursea Certification
 

@@ -12,10 +12,4 @@
 
 - title: "Certification"
   href: "/certification/"
-  subcategories:
-    - subtitle: "Introduction to TensorFlow for Artificial Intelligence"
-      subhref: "/CourseraQDXRX44X5NZZ.pdf"
-    - subtitle: "Data Manipulation with Python"
-      subhref: "/DataManipulationPythonTrack.pdf"
-    - subtitle: "Python Fundamentals Track"
-      subhref: "/PythonFundamentalsTrack.pdf"
+
