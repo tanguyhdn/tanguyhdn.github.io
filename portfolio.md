@@ -8,4 +8,4 @@ permalink: /portfolio/
 
 #### Proposed Classes
 
-- [Quantitative Public Policy Analysis](/portfolio/quantitative-public-policy-analysis/)
+- [Quantitative Public Policy](/portfolio/quantitative-public-policy-analysis/)
