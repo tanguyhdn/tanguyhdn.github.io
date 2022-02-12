@@ -5,6 +5,6 @@ permalink: /portfolio/
 
 ---
 
-My works in software & data engineering, data science and researches.
+My works in data science & data engineering.
 
 # under coonnstruction
