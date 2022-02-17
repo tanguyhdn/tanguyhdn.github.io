@@ -6,7 +6,7 @@ categories : data science
 ---
 
 <p align="center" ><img src="/images/lifecycle.png" alt="data science lifecycle" ></p>
-
+[source](https://medium.com/co-learning-loungecomplete-data-science-project-life-cycle-9eae6e4ed4c9)
 
 
 ## DEFINITION DES OBJECTIFS
