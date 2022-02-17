@@ -76,6 +76,8 @@ Pour les problématiques de machine learning, les données consolidées et prêt
 
 ## ELABORATION ET EVALUATION DES MODELES
 
+<p><img src="/images/model.webp" alt="statistics"></p>
+
 A cette étape, les données sont prêtes à êtres utilisées et les méthodes admissibles à la résolution du problème sont connues. On peut alors lancer la construction des modèles en utilisant les données de modélisation. Cette construction se fait avec l’aide de logiciels de programmations (R, Python, etc.). Cette étape qui constitue le cœur de l’activité de la data science, est symboliquement la plus importante (car c’est ici que les produits sortent des modules) et n’est pas forcément la plus longue. Dans la pratique, il arrive que l’on se heurte à des problèmes numériques (tel que la convergence des algorithmes, …), qui peuvent généralement se résoudre en jouant sur les paramètres des algorithmes, ou en considérant des variantes des algorithmes.
 Pour des problématiques de prédictions (faisant appel à des techniques d’apprentissage supervisé), on obtient les règles d’appartenance aux différentes classes, suivie d’une évaluation de la procédure sur l’échantillon test. Cette évaluation permet de mesurer la performance (l’erreur de classement) de la méthode de data science utilisée. Elle permet à toute l’équipe du projet (décideurs et experts) de juger de la pertinence du produit en fonction des objectifs fixés et éventuellement donner un accord pour le déploiement des modèles.
 
