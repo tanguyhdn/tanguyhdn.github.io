@@ -5,8 +5,9 @@ date:   2022-01-08
 categories : data science
 ---
 
-<p align="center" ><img src="/images/lifecycle.png" alt="data science lifecycle" ></p>
+<p align="center" ><img src="/images/lifecycle.png" alt="data science lifecycle" >
 [source](https://medium.com/co-learning-loungecomplete-data-science-project-life-cycle-9eae6e4ed4c9)
+</p>
 
 
 ## DEFINITION DES OBJECTIFS
