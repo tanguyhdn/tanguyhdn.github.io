@@ -5,12 +5,15 @@ date:   2022-01-08
 categories : data science
 ---
 
+<p><img src="/images/lifecycle.jpg" alt="Someone's feet on table facing a television"></p>
+
+
 
 ## DEFINITION DES OBJECTIFS
 
 La première tâche d'un projet de science des données consiste à définir un objectif mesurable et quantifiable. A ce niveau, on doit notamment poser le problème pratique, le traduire en une problématique data et définir un plan d’utilisation des résultats. Pour cela, il faut réunir autour d’une même table les experts du data mining et les décideurs. Les principaux points à traiter sont les suivants :
 
-### Quels sont les objectifs pratiques du projet ?
+### Définir les objectifs pratiques du projet ?
 
 Dans la majorité des cas, la réponse à cette question doit être apportée par les responsables de la structure qui initie le projet. Ces objectifs peuvent par exemple être la conquête de nouveaux clients, la reconquête d’anciens clients, l’identification des clients à risque pour l’entreprise ou encore la fidélisation de segments de clients. 
 Après la définition explicite des objectifs, il convient de définir la population cible et l’unité statistique. La population cible peut par exemple être constituée de l’ensemble des clients de l’entreprise et l’unité statistique est le client.
