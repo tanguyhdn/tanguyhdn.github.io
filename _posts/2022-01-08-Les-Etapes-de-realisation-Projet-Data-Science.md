@@ -43,6 +43,8 @@ Cette étape contribue significativement à la réussite d’un projet data scie
 
 ### Statistiques descriptives
 
+<p><img src="/images/stats-2.webp" alt="statistics"></p>
+
 Cette analyse préliminaire, permet d’avoir un aperçu général et rapide des données et d’en juger la fiabilité. Cette opération consiste à :
 -	Prendre connaissance avec les types de variables (quantitative continue, quantitative discrète, qualitative) et leurs différents codages ;
 -	Examiner la distribution des variables ;
