@@ -5,7 +5,7 @@ date:   2022-01-08
 categories : data science
 ---
 
-<p align="center"><img src="/images/lifecycle.png" alt="data science lifecycle" width="500" ></p>
+<p><img src="/images/lifecycle.png" alt="data science lifecycle" ></p>
 
 
 
