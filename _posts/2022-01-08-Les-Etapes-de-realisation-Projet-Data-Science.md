@@ -5,7 +5,7 @@ date:   2022-01-08
 categories : data science
 ---
 
-<p><img src="/images/lifecycle.jpg" alt="Someone's feet on table facing a television"></p>
+<p><img src="/images/lifecycle.png" alt="data science lifecycle"></p>
 
 
 
