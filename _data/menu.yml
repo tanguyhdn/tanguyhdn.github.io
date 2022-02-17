@@ -1,14 +1,14 @@
 - title: "About"
   href: "/about/"
 
-- title: "Blog"
-  href: "/blog/"
+- title: "Portfolio"
+  href: "/portfolio/"
 
 - title: "CV"
   href: "/cv/"
 
-- title: "Portfolio"
-  href: "/portfolio"
+- title: "Blog"
+  href: "/blog"
 
 - title: "Certification"
   href: "/certification/"
