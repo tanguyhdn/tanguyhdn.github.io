@@ -14,7 +14,7 @@ links:
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/tanguyhdn/PowerBI-churn-analysis
+  url: https://github.com/tanguyhdn/Power-BI/blob/main/Case_study_solution.pbix
 
 subtitle: Project using PowerBI
 tags:
