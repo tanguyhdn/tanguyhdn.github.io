@@ -11,7 +11,7 @@ draft: false
 excerpt: Si vous êtes curieux de savoir ce que vous pouvez faire lorsque vous maîtrisez Power BI lisez le post qui suit.
 layout: single
 
-subtitle: Blog on PowerBI
+subtitle: Power BI
 tags:
 - PowerBI
 title: La Solution de Business Intelligence de Microsoft
@@ -24,7 +24,7 @@ De nombreuses organisations ont adopté Power BI comme principal outil de Busine
 ## 1.	Visualisez vos données avec de superbes graphiques no-code
 ![Visualization](Visualization.jpg)
 
-Les outils de création de graphiques de Power BI sont puissants et faciles à utiliser et ne nécessitent aucun codage. Power BI a tout pour plaire notamment les graphiques traditionnels comme les histogrammes et les graphiques en courbes et jauge axés sur l'entreprise. En maîtrisant la visualisation des données dans Power BI, vous pourrez créer de beaux graphiques personnalisables et créer un impact avec votre analyse.
+Les outils de création de graphiques de Power BI sont puissants et faciles à utiliser et ne nécessitent aucun codage. Power BI a tout pour plaire notamment les graphiques traditionnels comme les histogrammes et les graphiques en courbes et jauge. En maîtrisant la visualisation des données dans Power BI, vous pourrez créer de beaux graphiques personnalisables et créer un impact avec votre analyse.
 
 ## 2.	Calculez ces chiffres avec DAX
 ![DAX](DAX.jpg)
@@ -45,6 +45,6 @@ En son cœur, Power BI consiste à créer des tableaux de bord interactifs pour 
 ## 5.	Partagez vos rapports avec vos collègues et le monde
 ![shareReport](shareReport.jpg)
 
-La valeur de l'analyse des données provient des décisions qui sont prises à partir des résultats. Pour ce faire, vous devez partager vos résultats avec vos collègues ou le monde entier. Power BI fournit une gamme d'outils de partage pour mettre vos tableaux de bord à la disposition des autres. 
+La valeur de l'analyse des données provient des décisions qui sont prises à partir des résultats. Pour ce faire, vous devez partager vos résultats avec vos collègues ou le monde entier. Power BI fournit une gamme d'outils de partage pour mettre vos tableaux de bord à la disposition des autres.
 
 
