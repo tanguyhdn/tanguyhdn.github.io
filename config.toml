@@ -85,21 +85,21 @@ enableEmoji = true
   # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
+  #[[params.social]]
+      #icon      = "github" # icon name without the 'fa-'
+      #icon_pack = "fab"
+      #url       = "https://github.com/tanguyhdn/tanguyhdn.github.io"
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
+      icon      = "python" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/tanguyhdn/tanguyhdn.github.io"
-  #[[params.social]]
-      #icon      = "facebook-square" # icon name without the 'fa-'
-      #icon_pack = "fab"
       #url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
-  #[[params.social]]
-      #icon      = "instagram" # icon name without the 'fa-'
-      #icon_pack = "fab"
-      #url       = "https://www.instagram.com/explore/tags/apero/"
-  #[[params.social]]
-      #icon      = "twitter" # icon name without the 'fa-'
-      #icon_pack = "fab"
+  [[params.social]]
+      icon      = "microsoft" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.credly.com/badges/4c4cfeb8-9060-4855-94f0-016b2edcfcb0/public_url"
+  [[params.social]]
+      icon      = "database" # icon name without the 'fa-'
+      icon_pack = "fab"
       #url       = "https://twitter.com/hashtag/apéro"
   #[[params.social]]
       #icon      = "impactstory" # icon name without the 'fa-'
