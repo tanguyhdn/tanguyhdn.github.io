@@ -96,11 +96,15 @@ enableEmoji = true
   [[params.social]]
       icon      = "microsoft" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.credly.com/badges/4c4cfeb8-9060-4855-94f0-016b2edcfcb0/public_url"
+      url       = "https://learn.microsoft.com/api/credentials/share/en-us/UlrichHODONOU-2734/8FF86F9E6BA1D967?sharingId=97DFED54543E5413"
   [[params.social]]
       icon      = "database" # icon name without the 'fa-'
-      icon_pack = "fab"
+      icon_pack = "fas"
       #url       = "https://twitter.com/hashtag/apéro"
+  [[params.social]]
+      icon      = "code" # icon name without the 'fa-'
+      icon_pack = "fas"
+      #url       = "https://twitter.com/hashtag/apéro"      
   #[[params.social]]
       #icon      = "impactstory" # icon name without the 'fa-'
       #icon_pack = "ai"
