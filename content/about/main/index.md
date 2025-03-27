@@ -5,8 +5,8 @@ number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: True
-intro: I'm looking for a data analyst or data scientist position.
-  You can check below a list of my data analysis projects.  
+intro: I'm looking for an analytics engineer or data analyst position.
+  You can check below a list of my data projects.  
 show_outro: False
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
