@@ -8,6 +8,4 @@ headline: |
 
 <!-- this is a subheadline -->
 
-As a data analyst and data scientist, I translate data into valuable and comprehensible insights to make data-driven decisions. 
-
-I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use SQL, R, Python and [Power BI](https://www.credly.com/badges/4c4cfeb8-9060-4855-94f0-016b2edcfcb0/public_url) for my data projects. 
+As an Analytics Engineer with a strong foundation in data modeling, ETL processes, and business intelligence tools, I specialize in building scalable data pipelines and delivering actionable insights to drive business decisions. I leverage SQL, Python, dbt, Airflow, and PostgreSQL, to design and optimize efficient data workflows. Certified as a Microsoft [Power BI](https://learn.microsoft.com/api/credentials/share/en-us/UlrichHODONOU-2734/8FF86F9E6BA1D967?sharingId=97DFED54543E5413) Data Analyst Associate , I have a proven ability to create dynamic and intuitive dashboards, turning complex datasets into visual narratives that empower teams to make data-driven decisions with confidence.
