@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: A sample of my projects.
+description: A curated collection of projects where I explore data analytics, engineering, and visualization — built with tools like SQL, dbt, BigQuery, and Power BI.
 layout: list-grid
 show_author_byline: true
 show_button_links: false
@@ -21,8 +21,8 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: A Project Portfolio To Grow
-title: A Project Portfolio To Grow
+  title: Building with Data — My Project Showcase
+title: Building with Data — My Project Showcase
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
